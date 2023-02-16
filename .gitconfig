@@ -1,0 +1,7 @@
+[user]
+	name = atreeud12
+	email = atreeud12@gmail.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = master
